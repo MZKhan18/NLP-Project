@@ -4,4 +4,4 @@ bs4
 distance
 nltk
 fuzzywuzzy
-xgboost=1.6.2
+xgboost
